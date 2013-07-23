@@ -1,0 +1,5 @@
+C:\projects\NoDiskServer.LivePerformancesMonitor\bin\Release\NoDisk.StatMonitorProcessor.dll
+C:\projects\NoDiskServer.LivePerformancesMonitor\bin\Release\NoDisk.StatMonitorProcessor.pdb
+C:\projects\NoDiskServer.LivePerformancesMonitor\obj\Release\NoDisk.StatMonitorProcessor.dll
+C:\projects\NoDiskServer.LivePerformancesMonitor\obj\Release\NoDisk.StatMonitorProcessor.pdb
+C:\projects\NoDiskServer.LivePerformancesMonitor\obj\Release\NoDisk.Processor.StatMonitorProcessor.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\projects\socketserverexample\NoDisk.Processor.FileNotFound\bin\Release\NoDisk.Processor.FileNotFound.dll
+C:\projects\socketserverexample\NoDisk.Processor.FileNotFound\bin\Release\NoDisk.Processor.FileNotFound.pdb
+C:\projects\socketserverexample\NoDisk.Processor.FileNotFound\obj\Release\NoDisk.Processors.FileNotFound.csprojResolveAssemblyReference.cache
+C:\projects\socketserverexample\NoDisk.Processor.FileNotFound\obj\Release\NoDisk.Processor.FileNotFound.dll
+C:\projects\socketserverexample\NoDisk.Processor.FileNotFound\obj\Release\NoDisk.Processor.FileNotFound.pdb
+C:\projects\NoDiskWebServer\NoDisk.Processors.FileNotFound\bin\Release\NoDisk.Processor.FileNotFound.dll
+C:\projects\NoDiskWebServer\NoDisk.Processors.FileNotFound\bin\Release\NoDisk.Processor.FileNotFound.pdb
+C:\projects\NoDiskWebServer\NoDisk.Processors.FileNotFound\bin\Release\NoDisk.Utils.dll
+C:\projects\NoDiskWebServer\NoDisk.Processors.FileNotFound\bin\Release\NoDisk.Utils.pdb
+C:\projects\NoDiskWebServer\NoDisk.Processors.FileNotFound\obj\Release\NoDisk.Processors.FileNotFound.csprojResolveAssemblyReference.cache
+C:\projects\NoDiskWebServer\NoDisk.Processors.FileNotFound\obj\Release\NoDisk.Processor.FileNotFound.dll
+C:\projects\NoDiskWebServer\NoDisk.Processors.FileNotFound\obj\Release\NoDisk.Processor.FileNotFound.pdb

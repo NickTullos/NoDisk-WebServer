@@ -1,0 +1,7 @@
+C:\projects\socketserverexample\NoDisk.Processor.KVDictionary\bin\Release\NoDisk.Processor.KVDictionary.dll
+C:\projects\socketserverexample\NoDisk.Processor.KVDictionary\bin\Release\NoDisk.Processor.KVDictionary.pdb
+C:\projects\socketserverexample\NoDisk.Processor.KVDictionary\bin\Release\NoDisk.Utils.dll
+C:\projects\socketserverexample\NoDisk.Processor.KVDictionary\bin\Release\NoDisk.Utils.pdb
+C:\projects\socketserverexample\NoDisk.Processor.KVDictionary\obj\Release\NoDisk.Processors.KVDictionary.csprojResolveAssemblyReference.cache
+C:\projects\socketserverexample\NoDisk.Processor.KVDictionary\obj\Release\NoDisk.Processor.KVDictionary.dll
+C:\projects\socketserverexample\NoDisk.Processor.KVDictionary\obj\Release\NoDisk.Processor.KVDictionary.pdb

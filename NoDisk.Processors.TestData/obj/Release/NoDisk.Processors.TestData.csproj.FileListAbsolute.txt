@@ -1,0 +1,14 @@
+C:\projects\socketserverexample\NoDisk.FakeDataProcessor\bin\Release\NoDisk.FakeDataProcessor.dll
+C:\projects\socketserverexample\NoDisk.FakeDataProcessor\bin\Release\NoDisk.FakeDataProcessor.pdb
+C:\projects\socketserverexample\NoDisk.FakeDataProcessor\bin\Release\NoDisk.Utils.dll
+C:\projects\socketserverexample\NoDisk.FakeDataProcessor\bin\Release\NoDisk.Utils.pdb
+C:\projects\socketserverexample\NoDisk.FakeDataProcessor\obj\Release\NoDisk.Processors.TestData.csprojResolveAssemblyReference.cache
+C:\projects\socketserverexample\NoDisk.FakeDataProcessor\obj\Release\NoDisk.FakeDataProcessor.dll
+C:\projects\socketserverexample\NoDisk.FakeDataProcessor\obj\Release\NoDisk.FakeDataProcessor.pdb
+C:\projects\NoDiskWebServer\NoDisk.Processors.TestData\bin\Release\NoDisk.FakeDataProcessor.dll
+C:\projects\NoDiskWebServer\NoDisk.Processors.TestData\bin\Release\NoDisk.FakeDataProcessor.pdb
+C:\projects\NoDiskWebServer\NoDisk.Processors.TestData\bin\Release\NoDisk.Utils.dll
+C:\projects\NoDiskWebServer\NoDisk.Processors.TestData\bin\Release\NoDisk.Utils.pdb
+C:\projects\NoDiskWebServer\NoDisk.Processors.TestData\obj\Release\NoDisk.Processors.TestData.csprojResolveAssemblyReference.cache
+C:\projects\NoDiskWebServer\NoDisk.Processors.TestData\obj\Release\NoDisk.FakeDataProcessor.dll
+C:\projects\NoDiskWebServer\NoDisk.Processors.TestData\obj\Release\NoDisk.FakeDataProcessor.pdb

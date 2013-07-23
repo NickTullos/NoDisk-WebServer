@@ -1,0 +1,7 @@
+C:\projects\socketserverexample\NoDisk.FakeDataProcessor\bin\Release\NoDisk.FakeDataProcessor.dll
+C:\projects\socketserverexample\NoDisk.FakeDataProcessor\bin\Release\NoDisk.FakeDataProcessor.pdb
+C:\projects\socketserverexample\NoDisk.FakeDataProcessor\bin\Release\NoDisk.Utils.dll
+C:\projects\socketserverexample\NoDisk.FakeDataProcessor\bin\Release\NoDisk.Utils.pdb
+C:\projects\socketserverexample\NoDisk.FakeDataProcessor\obj\Release\NoDisk.Processor.FakeData.csprojResolveAssemblyReference.cache
+C:\projects\socketserverexample\NoDisk.FakeDataProcessor\obj\Release\NoDisk.FakeDataProcessor.dll
+C:\projects\socketserverexample\NoDisk.FakeDataProcessor\obj\Release\NoDisk.FakeDataProcessor.pdb

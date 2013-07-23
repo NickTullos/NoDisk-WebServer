@@ -1,0 +1,5 @@
+C:\projects\socketserverexample\NoDisk.Processor.FileNotFound\bin\Release\NoDisk.Processor.FileNotFound.dll
+C:\projects\socketserverexample\NoDisk.Processor.FileNotFound\bin\Release\NoDisk.Processor.FileNotFound.pdb
+C:\projects\socketserverexample\NoDisk.Processor.FileNotFound\obj\Release\NoDisk.Processor.FileNotFound.csprojResolveAssemblyReference.cache
+C:\projects\socketserverexample\NoDisk.Processor.FileNotFound\obj\Release\NoDisk.Processor.FileNotFound.dll
+C:\projects\socketserverexample\NoDisk.Processor.FileNotFound\obj\Release\NoDisk.Processor.FileNotFound.pdb

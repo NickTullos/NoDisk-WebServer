@@ -1,0 +1,12 @@
+C:\projects\socketserverexample\NoDisk.Processor.PHP-CGI\bin\Release\NoDisk.Processor.PHP-CGI.dll
+C:\projects\socketserverexample\NoDisk.Processor.PHP-CGI\bin\Release\NoDisk.Processor.PHP-CGI.pdb
+C:\projects\socketserverexample\NoDisk.Processor.PHP-CGI\obj\Release\NoDisk.Processors.PHP-CGI.csprojResolveAssemblyReference.cache
+C:\projects\socketserverexample\NoDisk.Processor.PHP-CGI\obj\Release\NoDisk.Processor.PHP-CGI.dll
+C:\projects\socketserverexample\NoDisk.Processor.PHP-CGI\obj\Release\NoDisk.Processor.PHP-CGI.pdb
+C:\projects\NoDiskWebServer\NoDisk.Processors.PHP-CGI\bin\Release\NoDisk.Processor.PHP-CGI.dll
+C:\projects\NoDiskWebServer\NoDisk.Processors.PHP-CGI\bin\Release\NoDisk.Processor.PHP-CGI.pdb
+C:\projects\NoDiskWebServer\NoDisk.Processors.PHP-CGI\bin\Release\NoDisk.Utils.dll
+C:\projects\NoDiskWebServer\NoDisk.Processors.PHP-CGI\bin\Release\NoDisk.Utils.pdb
+C:\projects\NoDiskWebServer\NoDisk.Processors.PHP-CGI\obj\Release\NoDisk.Processors.PHP-CGI.csprojResolveAssemblyReference.cache
+C:\projects\NoDiskWebServer\NoDisk.Processors.PHP-CGI\obj\Release\NoDisk.Processor.PHP-CGI.dll
+C:\projects\NoDiskWebServer\NoDisk.Processors.PHP-CGI\obj\Release\NoDisk.Processor.PHP-CGI.pdb

@@ -1,0 +1,8 @@
+C:\projects\socketserverexample\NoDisk.Utils\bin\Release\NoDisk.Utils.dll
+C:\projects\socketserverexample\NoDisk.Utils\bin\Release\NoDisk.Utils.pdb
+C:\projects\socketserverexample\NoDisk.Utils\obj\Release\NoDisk.Utils.dll
+C:\projects\socketserverexample\NoDisk.Utils\obj\Release\NoDisk.Utils.pdb
+C:\projects\NoDiskWebServer\NoDisk.Utils\bin\Release\NoDisk.Utils.dll
+C:\projects\NoDiskWebServer\NoDisk.Utils\bin\Release\NoDisk.Utils.pdb
+C:\projects\NoDiskWebServer\NoDisk.Utils\obj\Release\NoDisk.Utils.dll
+C:\projects\NoDiskWebServer\NoDisk.Utils\obj\Release\NoDisk.Utils.pdb

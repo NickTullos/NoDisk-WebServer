@@ -1,0 +1,14 @@
+C:\projects\NoDiskWebServer\NoDisk.Processors.KVDictionary\bin\Debug\NoDisk.Processor.KVDictionary.dll
+C:\projects\NoDiskWebServer\NoDisk.Processors.KVDictionary\bin\Debug\NoDisk.Processor.KVDictionary.pdb
+C:\projects\NoDiskWebServer\NoDisk.Processors.KVDictionary\bin\Debug\NoDisk.Utils.dll
+C:\projects\NoDiskWebServer\NoDisk.Processors.KVDictionary\bin\Debug\NoDisk.Utils.pdb
+C:\projects\NoDiskWebServer\NoDisk.Processors.KVDictionary\obj\Debug\NoDisk.Processors.FileServer.csprojResolveAssemblyReference.cache
+C:\projects\NoDiskWebServer\NoDisk.Processors.KVDictionary\obj\Debug\NoDisk.Processor.KVDictionary.dll
+C:\projects\NoDiskWebServer\NoDisk.Processors.KVDictionary\obj\Debug\NoDisk.Processor.KVDictionary.pdb
+C:\git\NoDisk\NoDisk.Processors.FileServer\bin\Debug\NoDisk.Processor.KVDictionary.dll
+C:\git\NoDisk\NoDisk.Processors.FileServer\bin\Debug\NoDisk.Processor.KVDictionary.pdb
+C:\git\NoDisk\NoDisk.Processors.FileServer\bin\Debug\NoDisk.Utils.dll
+C:\git\NoDisk\NoDisk.Processors.FileServer\bin\Debug\NoDisk.Utils.pdb
+C:\git\NoDisk\NoDisk.Processors.FileServer\obj\Debug\NoDisk.Processors.FileServer.csprojResolveAssemblyReference.cache
+C:\git\NoDisk\NoDisk.Processors.FileServer\obj\Debug\NoDisk.Processor.KVDictionary.dll
+C:\git\NoDisk\NoDisk.Processors.FileServer\obj\Debug\NoDisk.Processor.KVDictionary.pdb

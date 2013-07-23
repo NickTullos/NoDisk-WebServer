@@ -1,0 +1,7 @@
+C:\projects\NoDiskWebServer\NoDisk.FileSystem.KVDictionary\bin\Release\NoDisk.FileSystem.KVDictionary.dll
+C:\projects\NoDiskWebServer\NoDisk.FileSystem.KVDictionary\bin\Release\NoDisk.FileSystem.KVDictionary.pdb
+C:\projects\NoDiskWebServer\NoDisk.FileSystem.KVDictionary\bin\Release\NoDisk.Utils.dll
+C:\projects\NoDiskWebServer\NoDisk.FileSystem.KVDictionary\bin\Release\NoDisk.Utils.pdb
+C:\projects\NoDiskWebServer\NoDisk.FileSystem.KVDictionary\obj\Release\NoDisk.FileSystem.KVDictionary.csprojResolveAssemblyReference.cache
+C:\projects\NoDiskWebServer\NoDisk.FileSystem.KVDictionary\obj\Release\NoDisk.FileSystem.KVDictionary.dll
+C:\projects\NoDiskWebServer\NoDisk.FileSystem.KVDictionary\obj\Release\NoDisk.FileSystem.KVDictionary.pdb

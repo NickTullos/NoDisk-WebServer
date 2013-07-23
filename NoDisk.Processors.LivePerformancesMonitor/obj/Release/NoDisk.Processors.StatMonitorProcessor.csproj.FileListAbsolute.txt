@@ -1,0 +1,12 @@
+C:\projects\NoDiskServer.LivePerformancesMonitor\bin\Release\NoDisk.StatMonitorProcessor.dll
+C:\projects\NoDiskServer.LivePerformancesMonitor\bin\Release\NoDisk.StatMonitorProcessor.pdb
+C:\projects\NoDiskServer.LivePerformancesMonitor\obj\Release\NoDisk.Processors.StatMonitorProcessor.csprojResolveAssemblyReference.cache
+C:\projects\NoDiskServer.LivePerformancesMonitor\obj\Release\NoDisk.StatMonitorProcessor.dll
+C:\projects\NoDiskServer.LivePerformancesMonitor\obj\Release\NoDisk.StatMonitorProcessor.pdb
+C:\projects\NoDiskWebServer\NoDisk.Processors.LivePerformancesMonitor\bin\Release\NoDisk.StatMonitorProcessor.dll
+C:\projects\NoDiskWebServer\NoDisk.Processors.LivePerformancesMonitor\bin\Release\NoDisk.StatMonitorProcessor.pdb
+C:\projects\NoDiskWebServer\NoDisk.Processors.LivePerformancesMonitor\bin\Release\NoDisk.Utils.dll
+C:\projects\NoDiskWebServer\NoDisk.Processors.LivePerformancesMonitor\bin\Release\NoDisk.Utils.pdb
+C:\projects\NoDiskWebServer\NoDisk.Processors.LivePerformancesMonitor\obj\Release\NoDisk.Processors.StatMonitorProcessor.csprojResolveAssemblyReference.cache
+C:\projects\NoDiskWebServer\NoDisk.Processors.LivePerformancesMonitor\obj\Release\NoDisk.StatMonitorProcessor.dll
+C:\projects\NoDiskWebServer\NoDisk.Processors.LivePerformancesMonitor\obj\Release\NoDisk.StatMonitorProcessor.pdb

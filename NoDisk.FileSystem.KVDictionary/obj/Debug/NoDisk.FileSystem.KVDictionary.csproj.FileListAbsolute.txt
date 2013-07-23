@@ -1,0 +1,14 @@
+C:\projects\NoDiskWebServer\NoDisk.FileSystem.KVDictionary\obj\Debug\NoDisk.FileSystem.KVDictionary.csprojResolveAssemblyReference.cache
+C:\projects\NoDiskWebServer\NoDisk.FileSystem.KVDictionary\bin\Debug\NoDisk.FileSystem.KVDictionary.dll
+C:\projects\NoDiskWebServer\NoDisk.FileSystem.KVDictionary\bin\Debug\NoDisk.FileSystem.KVDictionary.pdb
+C:\projects\NoDiskWebServer\NoDisk.FileSystem.KVDictionary\bin\Debug\NoDisk.Utils.dll
+C:\projects\NoDiskWebServer\NoDisk.FileSystem.KVDictionary\bin\Debug\NoDisk.Utils.pdb
+C:\projects\NoDiskWebServer\NoDisk.FileSystem.KVDictionary\obj\Debug\NoDisk.FileSystem.KVDictionary.dll
+C:\projects\NoDiskWebServer\NoDisk.FileSystem.KVDictionary\obj\Debug\NoDisk.FileSystem.KVDictionary.pdb
+C:\git\NoDisk\NoDisk.FileSystem.KVDictionary\bin\Debug\NoDisk.FileSystem.KVDictionary.dll
+C:\git\NoDisk\NoDisk.FileSystem.KVDictionary\bin\Debug\NoDisk.FileSystem.KVDictionary.pdb
+C:\git\NoDisk\NoDisk.FileSystem.KVDictionary\bin\Debug\NoDisk.Utils.dll
+C:\git\NoDisk\NoDisk.FileSystem.KVDictionary\bin\Debug\NoDisk.Utils.pdb
+C:\git\NoDisk\NoDisk.FileSystem.KVDictionary\obj\Debug\NoDisk.FileSystem.KVDictionary.csprojResolveAssemblyReference.cache
+C:\git\NoDisk\NoDisk.FileSystem.KVDictionary\obj\Debug\NoDisk.FileSystem.KVDictionary.dll
+C:\git\NoDisk\NoDisk.FileSystem.KVDictionary\obj\Debug\NoDisk.FileSystem.KVDictionary.pdb

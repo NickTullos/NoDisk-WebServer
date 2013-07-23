@@ -1,0 +1,14 @@
+C:\projects\socketserverexample\NoDisk.Utils\bin\Debug\NoDisk.Utils.dll
+C:\projects\socketserverexample\NoDisk.Utils\bin\Debug\NoDisk.Utils.pdb
+C:\projects\socketserverexample\NoDisk.Utils\obj\Debug\NoDisk.Utils.dll
+C:\projects\socketserverexample\NoDisk.Utils\obj\Debug\NoDisk.Utils.pdb
+C:\projects\socketserverexample\NoDisk.Utils\obj\Debug\NoDisk.Utils.csprojResolveAssemblyReference.cache
+C:\projects\NoDiskWebServer\NoDisk.Utils\bin\Debug\NoDisk.Utils.dll
+C:\projects\NoDiskWebServer\NoDisk.Utils\bin\Debug\NoDisk.Utils.pdb
+C:\projects\NoDiskWebServer\NoDisk.Utils\obj\Debug\NoDisk.Utils.dll
+C:\projects\NoDiskWebServer\NoDisk.Utils\obj\Debug\NoDisk.Utils.pdb
+C:\projects\NoDiskWebServer\NoDisk.Utils\obj\Debug\NoDisk.Utils.csprojResolveAssemblyReference.cache
+C:\git\NoDisk\NoDisk.Utils\bin\Debug\NoDisk.Utils.dll
+C:\git\NoDisk\NoDisk.Utils\bin\Debug\NoDisk.Utils.pdb
+C:\git\NoDisk\NoDisk.Utils\obj\Debug\NoDisk.Utils.dll
+C:\git\NoDisk\NoDisk.Utils\obj\Debug\NoDisk.Utils.pdb
