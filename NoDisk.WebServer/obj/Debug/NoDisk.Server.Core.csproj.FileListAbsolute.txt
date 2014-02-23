@@ -91,3 +91,6 @@ C:\git\NoDisk\NoDisk.WebServer\bin\Debug\NoDisk.FakeDataProcessor.pdb
 C:\git\NoDisk\NoDisk.WebServer\bin\Debug\NoDisk.Utils.pdb
 C:\git\NoDisk\NoDisk.WebServer\obj\Debug\NoDisk.Server.exe
 C:\git\NoDisk\NoDisk.WebServer\obj\Debug\NoDisk.Server.pdb
+C:\git\NoDisk-WebServer\NoDisk.WebServer\bin\Debug\NoDisk.Server.exe.config
+C:\git\NoDisk-WebServer\NoDisk.WebServer\obj\Debug\NoDisk.Server.exe
+C:\git\NoDisk-WebServer\NoDisk.WebServer\obj\Debug\NoDisk.Server.pdb
